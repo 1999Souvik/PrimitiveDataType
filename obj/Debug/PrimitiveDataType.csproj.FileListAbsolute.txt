@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\PrimitiveDataType\bin\Debug\PrimitiveDataType.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\PrimitiveDataType\bin\Debug\PrimitiveDataType.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\PrimitiveDataType\bin\Debug\PrimitiveDataType.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\PrimitiveDataType\obj\Debug\PrimitiveDataType.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\PrimitiveDataType\obj\Debug\PrimitiveDataType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\PrimitiveDataType\obj\Debug\PrimitiveDataType.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\PrimitiveDataType\obj\Debug\PrimitiveDataType.pdb
